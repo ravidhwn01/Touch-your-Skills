@@ -2,9 +2,9 @@
 
 function App() {
   return (
-    <div className="App">
-    <h1>Home</h1>
-    </div>
+    < >
+    <h1>A famous job searching website!</h1>
+    </>
   );
 }
 
